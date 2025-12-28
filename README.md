@@ -1,3 +1,3 @@
 # SamplePractice
 <br>
-Author - KEERTHI
+Author - KEERTHI PERCHERLA
